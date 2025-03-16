@@ -26,5 +26,5 @@ The model is trained on an insurance dataset with the following features:
 
 ### 🔧 **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/insurance-cost-prediction.git
+git clone https://github.com/Kheera640/insurance-cost-prediction.git
 cd insurance-cost-prediction
